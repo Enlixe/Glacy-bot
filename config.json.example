@@ -1,0 +1,6 @@
+{
+	"token": "TOKENHERE",
+	"prefix": "e/",
+	"mongooseConnectionString": "STRING HERE",
+	"testGuild": "524807341879853060"
+}
